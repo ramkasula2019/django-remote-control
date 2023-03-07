@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name = 'django-remote-control',
+    name = 'django-remote-control-1',
     packages = ['remote_control'],
     version = '1.0.2',
     install_requires=[
